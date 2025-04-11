@@ -18,8 +18,8 @@ I aim to use my skills to create tools that make life easier for developers and 
 
 ### Skills & Technologies
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks:** Flask, Django, React, Vue.js
+- **Languages:** Python, JavaScript, Java, HTML, CSS, SQL
+- **Frameworks:** Flask, Django, React
 - **Tools & Databases:** Git, GitHub, PostgreSQL, MySQL, SQLite
 - **Others:** REST APIs, Machine Learning, Data Analysis, AI, Docker, Kubernetes
 
