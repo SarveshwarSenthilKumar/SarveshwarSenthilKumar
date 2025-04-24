@@ -6,7 +6,7 @@ Explore my repositories to see some of the projects I've worked on, and feel fre
 
 ## About Me
 
-I'm Sarveshwar Senthil Kumar, a software developer based in Mississauga, Ontario, Canada. I specialize in full-stack development, particularly using **Flask** and **Django**, but I'm also constantly exploring new technologies and frameworks. I am a strong advocate for **open-source** development and **collaboration**.
+I'm Sarveshwar Senthil Kumar, a software developer based in Mississauga, Ontario, Canada. I specialize in full-stack development, particularly using **Flask**, but I'm also constantly exploring new technologies and frameworks. I am a strong advocate for **open-source** development and **collaboration**.
 
 ### My Journey
 
@@ -19,7 +19,7 @@ I aim to use my skills to create tools that make life easier for developers and 
 ### Skills & Technologies
 
 - **Languages:** Python, JavaScript, Java, HTML, CSS, SQL
-- **Frameworks:** Flask, Django, React
+- **Frameworks:** Flask, React
 - **Tools & Databases:** Git, GitHub, PostgreSQL, MySQL, SQLite
 - **Others:** REST APIs, Machine Learning, Data Analysis, AI, Docker, Kubernetes
 
