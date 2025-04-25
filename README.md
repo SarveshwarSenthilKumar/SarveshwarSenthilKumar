@@ -43,7 +43,7 @@ Here are some of my most notable repositories that I’m proud to share:
    A fun project that simulates different challenges of a hacker’s life, built with Python.
 
 6. **[Passion-3](https://github.com/SarveshwarSenthilKumar/Passion-3)**  
-   A project focusing on passion-driven development techniques, helping developers align their coding efforts with what excites them most.
+   A project focusing on passion-driven development techniques, and improve my problem solving skills while documenting the whole project for a school presentation. Battleship, Tic-Tac-Toe, and Rock Paper Scissors in one game website broadcasted to the entire school.
 
 7. **[Vitalisync](https://github.com/SarveshwarSenthilKumar/Vitalisync)**  
    An app that focuses on health and wellness, providing personalized recommendations for meals, exercise, and overall lifestyle changes powered by AI.
