@@ -50,7 +50,7 @@ Here are some of my most notable repositories that I’m proud to share:
 
 ## Personal Projects & Interests
 
-Aside from my open-source contributions, I’m always exploring new ideas. One of my upcoming projects is **Vitalisync**, an app that integrates AI to offer personalized health advice. My goal is to make health management easier and more accessible to everyone.
+Aside from my open-source contributions, I’m always exploring new ideas. One of my upcoming projects is **Vitalisync**, an app that integrates AI to offer personalized health advice. This is similar to one of my hackathon projects: CiviClinic. My goal is to make health management easier and more accessible to everyone.
 
 Additionally, I am passionate about building tools that enhance developer productivity, and one of my key projects, **DevTick**, is a reflection of this passion. DevTick is designed to help developers stay organized and efficient by offering features such as task management, API key management, project categorization, and an AI-powered chat assistant for coding challenges. Through this project, I aim to create a platform that streamlines the developer workflow and empowers coders to work smarter.
 
