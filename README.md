@@ -45,9 +45,6 @@ Here are some of my most notable repositories that I’m proud to share:
 6. **[Passion-3](https://github.com/SarveshwarSenthilKumar/Passion-3)**  
    A project focusing on passion-driven development techniques, and improve my problem solving skills while documenting the whole project for a school presentation. Battleship, Tic-Tac-Toe, and Rock Paper Scissors in one game website broadcasted to the entire school.
 
-7. **[Vitalisync](https://github.com/SarveshwarSenthilKumar/Vitalisync)**  
-   An app that focuses on health and wellness, providing personalized recommendations for meals, exercise, and overall lifestyle changes powered by AI.
-
 ## Personal Projects & Interests
 
 Aside from my open-source contributions, I’m always exploring new ideas. One of my upcoming projects is **Vitalisync**, an app that integrates AI to offer personalized health advice. This is similar to one of my hackathon projects: CiviClinic. My goal is to make health management easier and more accessible to everyone.
