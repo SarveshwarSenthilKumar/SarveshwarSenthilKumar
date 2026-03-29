@@ -76,4 +76,4 @@ Additionally, I am passionate about building tools that enhance developer produc
 
 Feel free to reach out if you want to collaborate or chat about technology, development, or anything else!
 
-Thank you for visiting my profile! 🚀
+Thank you for visiting my profile! 
