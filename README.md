@@ -71,12 +71,7 @@ Additionally, I am passionate about building tools that enhance developer produc
 ---
 
 ### Contribution Streak
-![Contribution Streak](https://streak-stats.demolab.com/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)
-
----
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SarveshwarSenthilKumar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![Contribution Streak](https://github-readme-streak-stats-eight.vercel.app/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)
 
 ---
 
@@ -87,11 +82,6 @@ Additionally, I am passionate about building tools that enhance developer produc
 
 ### Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SarveshwarSenthilKumar&theme=github-compact&hide_border=false)
-
----
-
-### Most Contributed Repositories
-![Most Contributed Repos](https://github-contributor-stats.vercel.app/api?username=SarveshwarSenthilKumar&limit=5&theme=dark&combine_all_yearly_contributions=true&order=DESC)
 
 ---
 
@@ -113,11 +103,9 @@ Additionally, I am passionate about building tools that enhance developer produc
 ---
 
 ### Profile Views
-[![](https://visitcount.itsvg.in/api?id=SarveshwarSenthilKumar&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=SarveshwarSenthilKumar&color=blue&style=flat)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Feel free to reach out if you want to collaborate or chat about technology, development, or anything else!
 
