@@ -66,7 +66,7 @@ Additionally, I am passionate about building tools that enhance developer produc
 # GitHub Stats
 
 ### General Stats
-![General Stats](https://github-readme-stats.vercel.app/api?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![General Stats](https://github-stats-extended.vercel.app/api?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&show_icons=true)
 
 ---
 
@@ -76,7 +76,7 @@ Additionally, I am passionate about building tools that enhance developer produc
 ---
 
 ### Top Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&layout=compact&langs_count=12)
 
 ---
 
