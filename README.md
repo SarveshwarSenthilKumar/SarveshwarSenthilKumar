@@ -25,7 +25,7 @@ I aim to use my skills to create tools that make life easier for developers and 
 
 ## Popular Repositories
 
-Here are some of my most notable repositories that I’m proud to share:
+Here are some of my most notable repositories that I'm proud to share:
 
 1. **[Flask-Development-Template](https://github.com/SarveshwarSenthilKumar/Flask-Development-Template)**  
    A comprehensive Flask project template to help you get started with building scalable and maintainable web applications. Includes authentication, database setup, and common utilities.
@@ -40,18 +40,18 @@ Here are some of my most notable repositories that I’m proud to share:
    A tool designed to simulate stock trading, helping users practice investing strategies and manage portfolios.
 
 5. **[HackerLife](https://github.com/SarveshwarSenthilKumar/HackerLife)**  
-   A fun project that simulates different challenges of a hacker’s life, built with Python.
+   A fun project that simulates different challenges of a hacker's life to teach financial literacy, built with Python.
 
 6. **[Passion-3](https://github.com/SarveshwarSenthilKumar/Passion-3)**  
    A project focusing on passion-driven development techniques, and improve my problem solving skills while documenting the whole project for a school presentation. Battleship, Tic-Tac-Toe, and Rock Paper Scissors in one game website broadcasted to the entire school.
 
 ## Personal Projects & Interests
 
-Aside from my open-source contributions, I’m always exploring new ideas. One of my upcoming projects is **Vitalisync**, an app that integrates AI to offer personalized health advice. This is similar to one of my hackathon projects: CiviClinic. My goal is to make health management easier and more accessible to everyone.
+Aside from my open-source contributions, I'm always exploring new ideas. One of my upcoming projects is **Vitalisync**, an app that integrates AI to offer personalized health advice. This is similar to one of my hackathon projects: CiviClinic. My goal is to make health management easier and more accessible to everyone.
 
 Additionally, I am passionate about building tools that enhance developer productivity, and one of my key projects, **DevTick**, is a reflection of this passion. DevTick is designed to help developers stay organized and efficient by offering features such as task management, API key management, project categorization, and an AI-powered chat assistant for coding challenges. Through this project, I aim to create a platform that streamlines the developer workflow and empowers coders to work smarter.
 
-## Let’s Connect!
+## Let's Connect!
 
 - **Personal Website:** [sarveshwarsenthilkumar.github.io](https://sarveshwarsenthilkumar.github.io)
 
@@ -61,9 +61,10 @@ Additionally, I am passionate about building tools that enhance developer produc
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Contributed Repository 
@@ -76,4 +77,4 @@ Additionally, I am passionate about building tools that enhance developer produc
 
 Feel free to reach out if you want to collaborate or chat about technology, development, or anything else!
 
-Thank you for visiting my profile, hope to see you again soon! 
+Thank you for visiting my profile, hope to see you again soon!
