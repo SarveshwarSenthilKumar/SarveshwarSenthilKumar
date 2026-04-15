@@ -55,24 +55,67 @@ Additionally, I am passionate about building tools that enhance developer produc
 
 - **Personal Website:** [sarveshwarsenthilkumar.github.io](https://sarveshwarsenthilkumar.github.io)
 
-  
 ## Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SarveshwarSenthilKumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sarveshwar313@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SarveshwarSenthilKumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sarveshwar313@gmail.com)
 
 # Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Top Contributed Repository
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=SarveshwarSenthilKumar&theme=github-compact&hide_border=false)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
+
+# 📊 GitHub Stats
+
+### 🗂️ General Stats
+![General Stats](https://github-readme-stats.vercel.app/api?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+---
+
+### 🔥 Contribution Streak
+![Contribution Streak](https://streak-stats.demolab.com/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SarveshwarSenthilKumar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 💬 Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+
+---
+
+### 📈 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SarveshwarSenthilKumar&theme=github-compact&hide_border=false)
+
+---
+
+### 🥇 Most Contributed Repositories
+![Most Contributed Repos](https://github-contributor-stats.vercel.app/api?username=SarveshwarSenthilKumar&limit=5&theme=dark&combine_all_yearly_contributions=true&order=DESC)
+
+---
+
+### 📅 Profile Details (commits over time)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarveshwarSenthilKumar&theme=github_dark)
+
+### 🗃️ Repos per Language
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarveshwarSenthilKumar&theme=github_dark)
+
+### ✍️ Most Committed Language
+![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SarveshwarSenthilKumar&theme=github_dark)
+
+### 📋 Stats Summary
+![Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarveshwarSenthilKumar&theme=github_dark)
+
+### ⏰ Productive Time (commits by hour of day)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SarveshwarSenthilKumar&theme=github_dark&utcOffset=-5)
+
+---
+
+### 👁️ Profile Views
 [![](https://visitcount.itsvg.in/api?id=SarveshwarSenthilKumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
