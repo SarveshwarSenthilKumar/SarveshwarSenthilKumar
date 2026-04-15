@@ -40,7 +40,7 @@ Here are some of my most notable repositories that I'm proud to share:
    A tool designed to simulate stock trading, helping users practice investing strategies and manage portfolios.
 
 5. **[HackerLife](https://github.com/SarveshwarSenthilKumar/HackerLife)**  
-   A fun project that simulates different challenges of a hacker's life to teach financial literacy, built with Python.
+   A fun project that simulates different challenges of a hacker's life, built with Python.
 
 6. **[Passion-3](https://github.com/SarveshwarSenthilKumar/Passion-3)**  
    A project focusing on passion-driven development techniques, and improve my problem solving skills while documenting the whole project for a school presentation. Battleship, Tic-Tac-Toe, and Rock Paper Scissors in one game website broadcasted to the entire school.
@@ -67,8 +67,9 @@ Additionally, I am passionate about building tools that enhance developer produc
 ![](https://streak-stats.demolab.com/?user=SarveshwarSenthilKumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Top Contributed Repository 
-![](https://github-contributor-stats.vercel.app/api?username=SarveshwarSenthilKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Top Contributed Repository
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarSenthilKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=SarveshwarSenthilKumar&theme=github-compact&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SarveshwarSenthilKumar&icon=0&color=0)](https://visitcount.itsvg.in)
